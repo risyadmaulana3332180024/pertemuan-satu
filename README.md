@@ -1,5 +1,5 @@
 # Smart Garbage Management System
-![Smart Garbage Management System](system.png)
+![Smart Garbage Management System](system.jpg)
 
 
 # Problem Statement: 
